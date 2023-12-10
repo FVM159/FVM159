@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FVM159
 - 👀 I’m interested in PARTICIPACIÓN CIUDADANA CON HERRAMIENTAS DIGITALES
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning URBANISMO Y ORDENAMIENTO TERRITORIAL 
+- 💞️ I’m looking to collaborate on TOMA DE DECISIONES GUBERNAMENTALES
 - 📫 How to reach me ...
 
 <!---
